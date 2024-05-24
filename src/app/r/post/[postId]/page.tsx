@@ -1,4 +1,4 @@
-// import CommentsSection from '@/components/CommentsSection'
+import CommentsSection from '@/components/CommentsSection'
 import EditorOutput from '@/components/EditorOutput'
 import PostVoteServer from '@/components/post-vote/PostVoteServer'
 import { buttonVariants } from '@/components/ui/Button'
